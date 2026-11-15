@@ -308,3 +308,6 @@ getTicketPrice(12);
 getTicketPrice(67);
 getTicketPrice(18, true);
 getTicketPrice(1, true);
+
+// HOISTING - javascript let
+// HOISTED - VAR
